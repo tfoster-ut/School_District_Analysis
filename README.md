@@ -6,7 +6,7 @@ The purpose of this analysis is to look into all of the schools in a particular 
 
 
 
-![](Resources/District_Summary)
+![](Resources/District_Summary.png)
 
 
 ### How Replacing 9th Grade Scores Affected the Following Tables:
@@ -23,19 +23,19 @@ The purpose of this analysis is to look into all of the schools in a particular 
   
 **Before Thomas High School Edit**
 
-![](Resources/pre_school_size)
+![](Resources/pre_school_size.png)
 
 **Before Thomas High School Edit**
 
-![](Resources/post_school_size)
+![](Resources/post_school_size.png)
 
 * **Scores by School Type**
   * Since Thomas High School is a charter school, the numbers in the passing percentages varied here as well.  
   
   **Before Thomas High School Edit**
   
-![](Resources/pre_school_type)
+![](Resources/pre_school_type.png)
   
   **After Thomas High Shcool Edit**
   
-![](Resources/post_school_type)
+![](Resources/post_school_type.png)
